@@ -6,6 +6,7 @@ public class Cuenta {
 		//hola jhonny tqm
 		//hola carito tqm
 		//sfmsfjsgfjsagfjhs
+		//hola carito ft
 		int c;
 		return a+b;
 	}
