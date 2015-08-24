@@ -1,8 +1,8 @@
 
 public class Cuenta {
-	public int suma(int a , int b)
+	public int suma(int a , int c)
 	{
-		return a+b;
+		return a+c;
 	}
 
 }
