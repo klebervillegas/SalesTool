@@ -10,7 +10,7 @@ public class Cuenta {
 		//jhonnyjami
 		//hola kleber
 		//kleber villegas
-		int c;
+		//int c;
 		return a+b;
 	}
 	
